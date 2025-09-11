@@ -22,6 +22,7 @@
 3. **SQL**
    - Table creation (DDL) and data loading (DML).
    - KPI queries: Total Revenue, Avg Order Value, Revenue by Country, Top Products.
+   - KPI outputs exported as CSV in `/sql/data/outputs/`.
 
 4. **Python**
    - Narrative business analysis with 3–4 visualizations.
