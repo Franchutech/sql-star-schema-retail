@@ -25,7 +25,46 @@
    - KPI outputs exported as CSV in `/sql/data/outputs/`.
 
 4. **Python**
-   - Narrative business analysis with 3–4 visualizations.
+   - Narrative business analysis with 4-5 visualizations.
+     - Revenue by Country
+     - Profit by Country
+     - Profit Distribution
+     - Top Stores by Revenue (Zoomed)
+     - Top Products by Revenue
+
+---
+
+## 📊 Python Analysis
+
+Using **pandas**, **matplotlib**, and **seaborn**, I performed a narrative analysis of the retail dataset.  
+The results include both global KPIs and business-focused visualizations.
+
+### Global KPIs (calculated in Python)
+- **Total Revenue:** $208,305,253.22  
+- **Total Profit:** $95,892,645.81  
+- **Average Order Value (AOV):** $1,388.70  
+- **Number of Transactions:** 150,000  
+
+---
+
+### Visualizations
+
+**1. Revenue by Country**  
+Comparison of total revenue across countries.  
+![Revenue by Country](images/revenue_by_country.png)
+
+**2. Profit by Country**  
+Highlights profitability distribution by country.  
+![Profit by Country](images/profit_by_country.png)
+
+**3. Profit Distribution**  
+Histogram showing the spread of profit per transaction.  
+![Profit Distribution](images/profit_distribution.png)
+
+**4. Top 10 Stores by Revenue (Zoomed)**  
+Ranking of the most profitable stores, zoomed to emphasize differences.  
+![Top Stores by Revenue](images/top_stores.png)
+
 
 5. **Power BI**
    - Dashboard with KPIs, segmentation, top products, revenue by category, and map visualization.
