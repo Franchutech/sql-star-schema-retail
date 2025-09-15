@@ -65,11 +65,30 @@ Histogram showing the spread of profit per transaction.
 Ranking of the most profitable stores, zoomed to emphasize differences.  
 ![Top Stores by Revenue](images/top_stores.png)
 
-
-5. **Power BI**
-   - Dashboard with KPIs, segmentation, top products, revenue by category, and map visualization.
+**5. Top 10 Products by Revenue**  
+Ranking of the products that generate the most revenue.  
+![Top Products by Revenue](images/top_products.png)
 
 ---
+
+## 📊 Power BI Dashboard
+
+Finally, I designed an **interactive Power BI dashboard** to consolidate all insights.  
+The dashboard includes KPI cards, country and loyalty program segmentation, and key product/category analyses.  
+
+### Main Dashboard (Gradient Style)
+![Dashboard Harvest Retail Gradient](images/DB_Harvest_Retail_V.2.png)
+
+### Key Elements
+- **KPIs:** Revenue, Profit, Customers, Orders, AOV.  
+- **Segmentation:** Country and Loyalty Program filters.  
+- **Visuals:**  
+  - Profit by Country  
+  - Profit vs Revenue by Loyalty Program  
+  - Revenue by Category  
+
+*(For a more traditional version with a plain background, see `DB Harvest Retail V.1.png` in the `/images` folder.)*
+
 ---
 
 ## 📑 Dataset Documentation
@@ -132,6 +151,12 @@ The project uses a **Star Schema** to structure the retail dataset for analytics
 ## 📌 Key Learnings
 This project highlights the importance of **Data Modeling** in analytics.  
 A well-designed **Star Schema** improves SQL performance, simplifies queries, and enables efficient BI reporting.
+
+---
+
+## 📌 Project Status
+This project is **finalized** ✅.  
+All planned deliverables (SQL, Python analysis, and Power BI dashboard) were completed successfully.
 
 ---
 

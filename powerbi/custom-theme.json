@@ -1,0 +1,13 @@
+{
+  "name": "SQL Star Schema Retail Theme",
+  "dataColors": [
+    "#3F2D3B",
+    "#733049",
+    "#9C1F2D",
+    "#DE7F0B",
+    "#F9B508"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#000000",
+  "tableAccent": "#9C1F2D"
+}
