@@ -1,6 +1,6 @@
 ---
 
-## 🎯 Objectives
+##  Objectives
 - Design a **Star Schema** with fact and dimension tables.
 - Generate and transform a **synthetic retail dataset**.
 - Write **SQL scripts** for table creation, data loading, and KPI queries.
@@ -9,7 +9,7 @@
 
 ---
 
-## 📊 Deliverables
+##  Deliverables
 
 1. **Data Modeling**
    - Star Schema diagram (dbdiagram.io / draw.io).
@@ -34,7 +34,7 @@
 
 ---
 
-## 📊 Python Analysis
+##  Python Analysis
 
 Using **pandas**, **matplotlib**, and **seaborn**, I performed a narrative analysis of the retail dataset.  
 The results include both global KPIs and business-focused visualizations.
@@ -71,7 +71,7 @@ Ranking of the products that generate the most revenue.
 
 ---
 
-## 📊 Power BI Dashboard
+##  Power BI Dashboard
 
 Finally, I designed an **interactive Power BI dashboard** to consolidate all insights.  
 The dashboard includes KPI cards, country and loyalty program segmentation, and key product/category analyses.  
@@ -91,7 +91,7 @@ The dashboard includes KPI cards, country and loyalty program segmentation, and 
 
 ---
 
-## 📑 Dataset Documentation
+##  Dataset Documentation
 
 ### Products
 - **product_id (PK):** Unique product identifier (8-digit code, barcode style).
@@ -121,7 +121,7 @@ The dashboard includes KPI cards, country and loyalty program segmentation, and 
 - **total_amount:** Total sales amount (quantity × sale_price).
 
 ---
-## 🌟 Star Schema
+##  Star Schema
 The project uses a **Star Schema** to structure the retail dataset for analytics.
 
 - **Fact table:** Transactions (sales data).
@@ -131,7 +131,7 @@ The project uses a **Star Schema** to structure the retail dataset for analytics
 
 ---
 
-## 🔄 Workflow
+##  Workflow
 - Generate synthetic retail dataset with realistic customers, products, and stores.
 - Perform **initial Exploratory Data Analysis (EDA)** to validate data quality and consistency.
 - Build Star Schema for efficient querying.
@@ -140,7 +140,7 @@ The project uses a **Star Schema** to structure the retail dataset for analytics
 
 ---
 
-## 🧑‍💻 Tech Stack
+##  Tech Stack
 - **Python** (pandas, matplotlib, seaborn)
 - **SQL** (DDL, DML, KPIs)
 - **Power BI** (interactive dashboard)
@@ -148,17 +148,17 @@ The project uses a **Star Schema** to structure the retail dataset for analytics
 
 ---
 
-## 📌 Key Learnings
+##  Key Learnings
 This project highlights the importance of **Data Modeling** in analytics.  
 A well-designed **Star Schema** improves SQL performance, simplifies queries, and enables efficient BI reporting.
 
 ---
 
-## 📌 Project Status
-This project is **finalized** ✅.  
+##  Project Status
+This project is **finalized** .  
 All planned deliverables (SQL, Python analysis, and Power BI dashboard) were completed successfully.
 
 ---
 
-## 📜 License
+##  License
 This project is licensed under the MIT License – see the [LICENSE](./LICENSE) file for details.
